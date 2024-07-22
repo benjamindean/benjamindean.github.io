@@ -1,17 +1,17 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
         "appIDs": [
           "3ZX4FWS39V.com.benjaminabel.observatory"
         ],
-        "paths": [
-          "*"
-        ],
         "components": [
           {
-            "/": "/*"
+            "/": "/observatory/*",
+            "exclude": true
+          },
+          {
+            "/": "/observatory-link/*"
           }
         ]
       }
