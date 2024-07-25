@@ -2,9 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [
-          "3ZX4FWS39V.com.benjaminabel.observatory"
-        ],
+        "appIDs": ["3ZX4FWS39V.com.benjaminabel.observatory"],
         "components": [
           {
             "/": "/observatory/*",
@@ -18,8 +16,6 @@
     ]
   },
   "webcredentials": {
-    "apps": [
-      "3ZX4FWS39V.com.benjaminabel.observatory"
-    ]
+    "apps": ["3ZX4FWS39V.com.benjaminabel.observatory"]
   }
 }
